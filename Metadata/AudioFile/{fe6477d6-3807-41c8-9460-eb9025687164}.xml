@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{b12e4148-10e0-4298-ab55-0b33233dbaf4}">
-		<property name="note" />
+	<object class="AudioFile" id="{fe6477d6-3807-41c8-9460-eb9025687164}">
 		<property name="assetPath">
-			<value>Sound/Gunner/SteamStage1.wav</value>
+			<value>Sound/Gunner/GunnerWalk2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -12,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>3.245374149659864</value>
+			<value>0.4319047619047619</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
