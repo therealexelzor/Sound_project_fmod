@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{312959c4-60d0-494a-a8f2-5689defdf76b}">
+		<property name="note">
+			<value>Death sound for gunner boss</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

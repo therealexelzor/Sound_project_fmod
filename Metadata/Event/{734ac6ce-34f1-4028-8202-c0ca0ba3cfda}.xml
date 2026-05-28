@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{734ac6ce-34f1-4028-8202-c0ca0ba3cfda}">
+		<property name="note">
+			<value>Sound for picking up keys</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{48b70e8e-bcdf-4b28-9d54-7c053543c36a}">
+		<property name="note">
+			<value>Sound for when destrucable walls are destroyed</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>

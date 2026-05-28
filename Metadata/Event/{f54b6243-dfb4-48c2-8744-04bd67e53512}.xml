@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{f54b6243-dfb4-48c2-8744-04bd67e53512}">
+		<property name="note">
+			<value>Sound for the krystal door switch being destroyed</value>
+		</property>
 		<property name="color">
 			<value>Purple</value>
 		</property>
