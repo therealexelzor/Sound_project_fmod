@@ -136,7 +136,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{69ebcd86-f22f-432d-887a-180d21d601b8}">
 		<property name="volume">
-			<value>-1.5</value>
+			<value>-5.5</value>
 		</property>
 		<property name="name">
 			<value>Ambience</value>
@@ -162,7 +162,7 @@
 			<value>68</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>7500</value>
+			<value>10000</value>
 		</property>
 		<property name="maximumScatterDistance">
 			<value>9.40000057</value>
@@ -229,6 +229,7 @@
 	<object class="MixerBusEffectChain" id="{b2e9607e-da3e-4f8a-ad85-8417cfd680f6}">
 		<relationship name="effects">
 			<destination>{361b11c1-7e43-4e64-81be-b642992e1b40}</destination>
+			<destination>{3d91e755-9c8b-4ee6-86d1-1de43b7037b3}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6c4ab76d-5ba9-42f6-9a31-df73edba43d7}" />
@@ -255,4 +256,5 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{361b11c1-7e43-4e64-81be-b642992e1b40}" />
+	<object class="SFXReverbEffect" id="{3d91e755-9c8b-4ee6-86d1-1de43b7037b3}" />
 </objects>
