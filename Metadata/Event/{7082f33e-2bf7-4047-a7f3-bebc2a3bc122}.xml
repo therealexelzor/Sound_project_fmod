@@ -116,6 +116,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{3dd7dcdd-54c3-4b71-9355-21f0794be3f8}" />
 	<object class="SingleSound" id="{47a2b7af-36bd-4481-bd25-97da19ad7d76}">
+		<property name="volume">
+			<value>-4</value>
+		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
@@ -126,6 +129,9 @@
 	<object class="SingleSound" id="{f7029e07-45f0-41ad-b545-eaeae9a63ada}">
 		<property name="start">
 			<value>1</value>
+		</property>
+		<property name="volume">
+			<value>7</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -162,7 +168,10 @@
 			<value>68</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>10000</value>
+			<value>6500</value>
+		</property>
+		<property name="spawnRate">
+			<value>130</value>
 		</property>
 		<property name="maximumScatterDistance">
 			<value>9.40000057</value>
